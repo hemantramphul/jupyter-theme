@@ -2,6 +2,9 @@
 
 This guide provides instructions on how to install and apply custom themes for Jupyter Notebooks using the `jupyterthemes` package.
 
+![Jupyter Theme](jupyter-theme.png)
+
+
 ## Installation
 
 1. **Install the `jupyterthemes` package:**
